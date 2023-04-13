@@ -1,0 +1,2 @@
+-- https://sphincs.org/
+-- https://github.com/sphincs/sphincsplus
